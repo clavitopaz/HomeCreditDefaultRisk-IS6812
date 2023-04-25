@@ -11,3 +11,5 @@ Exploratory Data Analysis and Modeling for Home Credit Capstone Project
 - If I had more time, I would have segmented the normalized housing dataset for all non-"NA" fields. It would have been interesting to see if there were any stark differences from that dataset to the one we explored in this assignment. 
 
 - This EDA project has gotten me to feel more comfortable in using R. I have been able to create my own plots andI've pivoted and mutated many data tables. This also has given me more appreciation for performing EDA for a project - as it provides the user value in understanding the dataset before executing a project.
+
+# Home Credit Modeling: Results Overview
