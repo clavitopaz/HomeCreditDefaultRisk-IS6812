@@ -18,3 +18,6 @@ Exploratory Data Analysis and Modeling for Home Credit Capstone Project
 - I believe it would have been more useful to use other datasets like installment payments or credit bureau information when running the final model. However, for the sake of time, we only used the application_train dataset.
 
 - In conclusion, going forward I feel better equipped to identify which model should be ran for predictive purposes. I also feel like my coding skills have signficantly improved, as well as my interpretation of the metrics.
+
+# Capstone Presentation
+- Powerpoint presentation of Exploratory Data Analysis and Modeling by myself and Biva Sherchan.
