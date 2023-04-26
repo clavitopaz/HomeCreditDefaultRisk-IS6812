@@ -1,4 +1,4 @@
-# Capstone Project - Home Credit Default Risk 
+# Capstone Project - Home Credit Default Risk Summary
 - Business Problem: Can we identify customers who will have issues paying back their loan?
 - Below are results from an Exploratory Data Analysis, Random Forest Modeling and a final powerpoint presentation for the Home Credit Capstone Project. 
 - Click on the headers to see the full reports of the EDA, the Random Forest modeling assignment and the powerpoint presentation.
