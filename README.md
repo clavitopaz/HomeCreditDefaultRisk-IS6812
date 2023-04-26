@@ -1,7 +1,7 @@
 # HomeCreditDefaultRisk-IS6812
 Exploratory Data Analysis and Modeling for Home Credit Capstone Project
 
-# Home Credit EDA: Results Overview
+# [Home Credit EDA: Results Overview](https://clavitopaz.github.io/HomeCreditEDA/)
 - Identified predictive power in customer data that is 'NA'. However, we removed the normalized housing data as there was too many NA fields in their columns, and we may not be able to extract any useful information from that data if we find any correlations.
 
 - In reviewing the number and percentage of contracts for each customer by contract type, family status, car ownership, etc., we got a better idea of the makeup of our customer base. It seems that customers with trouble paying off their loan (in majority) own realty, make on average $160,000, are married and have no children. 
