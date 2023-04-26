@@ -19,5 +19,5 @@ Exploratory Data Analysis and Modeling for Home Credit Capstone Project
 
 - In conclusion, going forward I feel better equipped to identify which model should be ran for predictive purposes. I also feel like my coding skills have signficantly improved, as well as my interpretation of the metrics.
 
-# Capstone Presentation
+# [Capstone Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fclavitopaz%2FHomeCreditPresentation%2Fmain%2FCapstone%2520Presentation.pptx&wdOrigin=BROWSELINK)
 - Powerpoint presentation of Exploratory Data Analysis and Modeling by myself and Biva Sherchan.
